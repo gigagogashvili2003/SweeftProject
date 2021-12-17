@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/SweeftProject/static/css/main.7d03d842.css",
+    "main.js": "/SweeftProject/static/js/main.6bfe1857.js",
+    "static/media/spinner.png": "/SweeftProject/static/media/spinner.d2d530b5486100946015.png",
+    "index.html": "/SweeftProject/index.html",
+    "main.7d03d842.css.map": "/SweeftProject/static/css/main.7d03d842.css.map",
+    "main.6bfe1857.js.map": "/SweeftProject/static/js/main.6bfe1857.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d03d842.css",
+    "static/js/main.6bfe1857.js"
+  ]
+}
