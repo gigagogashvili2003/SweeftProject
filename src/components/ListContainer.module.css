@@ -1,0 +1,26 @@
+.container {
+  width: 80%;
+  height: 100%;
+  margin: 0 auto;
+  padding: 20px 0;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.container a {
+  width: 22%;
+  height: 100%;
+  margin: 10px;
+
+  border: 1px solid black;
+}
+
+@media (max-width: 1000px) {
+  .container {
+    width: 100%;
+  }
+  .container a {
+    width: 47%;
+  }
+}
